@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 # Data availability
-The natural video data is available at https://gin.g-node.org/mlynarski/anticipatorymodulation. In order for the data to be properly loaded in to the analysis code please place the video data folders (nat_videos and nat_videos_multi_speed) in the data directory.
+The natural video data is available at https://gin.g-node.org/mlynarski/anticipatorymodulation. In order for the data to be properly loaded into the analysis code please place the video data folders (nat_videos and nat_videos_multi_speed) in the data directory.
 
 # Code usage
 ## Generate results
