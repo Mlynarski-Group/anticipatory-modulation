@@ -2,8 +2,27 @@
 Code for the paper "Anticipatory modulation as a unifying principle of sensory coding during active behavior"
 
 # Install instructions
-In order to run the code, please install the required packages using
+In order to run the code, please ensure Python 3 is installed and install the required packages by running
 
 ```
 pip install -r requirements.txt
+```
+
+# Data availability
+The natural video data is available at https://gin.g-node.org/mlynarski/anticipatorymodulation. In order for the data to be properly loaded in to the analysis code please place the video data folders (nat_videos and nat_videos_multi_speed) in the data directory.
+
+# Code usage
+To generate the Gabor responses to the natural videos run the python scripts in gen_gabor_response. For example,
+```
+python3 gen_gabor_response/gabor_filter_bank_new_nat_video_matched_rf.py
+```
+
+The optimal nonlinearity parameters are determined by running
+```
+python3 gen_gabor_response/optimize_nonlinearity_gaussian_analytic_fast.py
+```
+
+The minimal model simulation can be run by executing
+```
+python3 anticipatory-modulation/minimal_model/agent_sim.py
 ```
