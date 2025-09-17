@@ -21,7 +21,7 @@ from utilities import (
 )
 import sys
 
-data_group = 'nat_videos'
+data_group = 'nat_videos' # or 'nat_videos_multi_speed'
 
 # define parameters of the video
 data_dir = "../data/" + data_group + "/"
