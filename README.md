@@ -1,5 +1,5 @@
 # anticipatory-modulation
-Code for the paper "Anticipatory modulation as a unifying principle of sensory coding during active behavior"
+Code for the paper "Anticipatory modulation as a unifying principle of sensory coding during active behavior" by Jonathan Gant and Wiktor Mlynarski at the LMU Munich.
 
 # Install instructions
 In order to run the code, please ensure Python 3 is installed and install the required packages by running
