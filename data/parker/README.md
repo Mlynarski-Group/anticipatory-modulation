@@ -1,0 +1,1 @@
+These data are extracted from the paper: Parker, P.R.L., Martins, D.M., Leonard, E.S.P. et al. A dynamic sequence of visual processing initiated by gaze shifts. Nat Neurosci 26, 2192–2202 (2023). https://doi.org/10.1038/s41593-023-01481-7
