@@ -1,0 +1,1 @@
+These data are from the paper: Horrocks, E.A.B., Rodrigues, F.R. & Saleem, A.B. Flexible neural population dynamics govern the speed and stability of sensory encoding in mouse visual cortex. Nat Commun 15, 6415 (2024). https://doi.org/10.1038/s41467-024-50563-y
